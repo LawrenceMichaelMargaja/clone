@@ -1,0 +1,31 @@
+#root {
+    width: 100%;
+    margin: 0 auto;
+    height: 100vh;
+    display: grid;
+}
+
+.App {
+    justify-content: center;
+    justify-items: center;
+    align-self: center;
+    align-content: center;
+}
+
+.ant-form {
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.ant-form-item {
+    margin: 0 auto;
+}
+
+input {
+    margin: 0 auto;
+}
+
+#basic {
+    display: grid;
+}
